@@ -32,6 +32,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Mock-Up
 
+![mockup](https://user-images.githubusercontent.com/90168071/141149035-2136f383-6af8-491b-8819-0c84b03ce1ee.JPG)
 
 ## Walkthrough Video
 
@@ -39,3 +40,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## GitHub URL
 * https://github.com/vcapella/12_Employee-tracker
+
+### Improvements To Do
+* fix error whe adding a department (question only shows up when start typing)
+* implement "add roll, add employee and update session"
